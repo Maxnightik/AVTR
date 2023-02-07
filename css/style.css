@@ -306,11 +306,11 @@ ul {
 }
 
 .arrow-left {
-    transform: translateX(-104px);
+    transform: translateX(-80px);
 }
 
 .arrow-right {
-    transform: translateX(9px);
+    transform: translateX(30px);
 }
 
 
